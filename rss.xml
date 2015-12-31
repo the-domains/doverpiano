@@ -4,8 +4,15 @@
         <description><![CDATA[The Website of Patrick Dover, RPT]]></description>
         <link>https://thegrid.ai/doverpiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 23:19:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doverpiano/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tuning]]></title>
+            <description><![CDATA[<article><h1>Tuning</h1><p>Maintaining Your Musicality</p></article>]]></description>
+            <link>https://thegrid.ai/doverpiano/tuning/index.html</link>
+            <guid isPermaLink="false">21f2f9c7-762a-492c-8533-a93eb12d5f99</guid>
+            <pubDate>Thu, 31 Dec 2015 23:19:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact ]]></title>
             <description><![CDATA[<article><h1>Contact </h1><p>Where and When I Can Be Reached</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/doverpiano/biography/index.html</link>
             <guid isPermaLink="false">eb43902b-89cb-4b63-805e-7d6346814cc3</guid>
             <pubDate>Thu, 31 Dec 2015 23:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tuning]]></title>
-            <description><![CDATA[<article><h1>Tuning</h1><p>Maintaining Your Musicality</p></article>]]></description>
-            <link>https://thegrid.ai/doverpiano/tuning/index.html</link>
-            <guid isPermaLink="false">21f2f9c7-762a-492c-8533-a93eb12d5f99</guid>
-            <pubDate>Thu, 31 Dec 2015 23:18:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
