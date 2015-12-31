@@ -6,23 +6,25 @@ inLanguage: null
 starred: true
 keywords: []
 description: Then and Now
-datePublished: '2015-12-31T23:06:20.457Z'
-dateModified: '2015-12-31T22:54:22.851Z'
+datePublished: '2015-12-31T23:18:14.801Z'
+dateModified: '2015-12-31T23:18:12.006Z'
 title: Biography
 author: []
+sourcePath: _posts/2015-12-31-biography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-31-biography.md
-published: true
 url: biography/index.html
 _type: Article
 
 ---
-{a short sentence about myself or possibly a quip} 
+It's A Pleasure To Meet You
+
+-
 
 Text regarding my biography.
 
