@@ -2,6 +2,7 @@ name: 'DoverPiano '
 favicon: null
 layout_spectrum: 0.8787725523579866
 typography_spectrum: 0.7949648858048022
+title: 'The Website of Patrick Dover, RPT'
 cta:
   domain: null
   bucket: null
