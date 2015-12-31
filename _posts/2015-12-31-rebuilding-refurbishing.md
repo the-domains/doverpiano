@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Resurrecting An Instrument
-datePublished: '2015-12-31T23:15:49.344Z'
-dateModified: '2015-12-31T23:15:02.662Z'
+datePublished: '2015-12-31T23:26:06.150Z'
+dateModified: '2015-12-31T23:25:08.733Z'
 title: 'Rebuilding Refurbishing '
 author: []
 sourcePath: _posts/2015-12-31-rebuilding-refurbishing.md
@@ -27,5 +27,4 @@ Bring About Beauty
 -
 
 Text about rebuilding and refurbishing
-
-\[image\]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/110aa199-41e0-4a26-b01c-a594214e83db.jpg)
