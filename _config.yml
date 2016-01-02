@@ -1,16 +1,16 @@
 title: 'The Website of Patrick Dover, RPT'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.6838111
+layout_spectrum: 0.8946037
 favicon: null
 name: 'DoverPiano '
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,9 +29,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.8187184
-  lightness: 0.3617201
-  saturation: 0.737774
-  rhythmicContrast: 0.4561552
+  lightness: 0.262226
+  saturation: 0.4595278
+  rhythmicContrast: 0.9232715
   brandColors:
     - '#543226'
     - '#FFFFFF'
