@@ -1,7 +1,7 @@
 name: 'DoverPiano '
 favicon: null
-layout_spectrum: 0.40162
-typography_spectrum: 0.3583
+layout_spectrum: 0.99368
+typography_spectrum: 0.99549
 title: 'The Website of Patrick Dover, RPT'
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#0a1600'
     - '#feb800'
     - '#b70200'
-  brandStrength: 0.8125
-  lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.75
+  brandStrength: 0.375
+  lightness: 0.3125
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
