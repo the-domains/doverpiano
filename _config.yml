@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.99368
+layout_spectrum: 1
 favicon: null
 name: 'DoverPiano '
 purpose: []
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.1595745
-  lightness: 0.3125
-  saturation: 0.875
-  rhythmicContrast: 0.2765957
+  brandStrength: 0.7106383
+  lightness: 0.287234
+  saturation: 0.8978723
+  rhythmicContrast: 0.7531915
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#83785C'
     - '#4A4130'
     - '#98A7C6'
-typography_spectrum: 0.99549
+typography_spectrum: 1
